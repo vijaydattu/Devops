@@ -1,0 +1,77 @@
+<! 
+<h1 style="text-align: center;"><img class="alignnone size-medium wp-image-318" src="http://techzenik.com/wp-content/uploads/2017/03/The-Logo-300x219.jpg" alt="" width="300" height="219" /></h1>
+<h1 style="text-align: center;"><strong>REGISTER NOW !</strong></h1>
+--!>
+
+
+Programs
+Summer Camps
+
+PA Day Workshops
+
+March Break Camps
+
+Weekend Programs
+
+One day Workshops
+
+Weekday after School Programs
+
+Running Classes
+
+LEGO Mindstorms EV3
+VEX IQ
+VEX EDR
+Arduino
+Raspberry PI
+Matlab
+Build your own computer
+Build your own app using android studio
+Code with Java
+Design with Python
+2D Animation
+3D Animation
+Photoshop
+Photography
+Making Movie
+Making Game
+Contact Us
+
+Address
+2300 Lawrence Ave East Suit 21
+Scarborough, ON M1P 2R2
+
+Telephone
+416 628 6763
+
+Email Address
+info@techzenik.com
+Upcoming Events
+
+    Lego We Do (Beginners) – Workshop 1
+    July 4 - July 7	
+    Mindstorm EV3 (Beginners)- Workshop 1
+    July 4 - July 7	
+    Photography- Workshop 1
+    July 4 - July 7	
+    Build a computer (Beginners) – Workshop 1
+    July 4 - July 7	
+    Lego We Do (Advanced) – Workshop 1
+    July 10 - July 14	
+    Mindstorm EV3 (Advanced)- Workshop 1
+    July 10 - July 14	
+    Design with Python – Workshop 1
+    July 10 - July 14	
+    Build a computer (Advanced)- Workshop 1
+    July 10 - July 14	
+    Photoshop – Workshop 1
+    July 10 - July 14	
+    Arduino – Workshop 1
+    July 17 - July 21	
+-++++++++++++++++++++++++++++++++++++++
+Java Beginer 
+
+Student will learn programming fundamentals and computational thinking in a collaborative, energetic environment using JavaScript, one of the most powerful languages for creating interactive websites, apps, and programs. Students will take on fun challenges while developing real-world programming skills
+
+Targeted age group: 10 to 16 years
+	   
